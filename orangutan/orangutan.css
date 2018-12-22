@@ -1,0 +1,227 @@
+/*
+* Brooke Traver
+* Due Date
+* Orangutan CSS
+*/
+
+/* The universal seclector */
+
+* { 
+
+}
+
+ /* Body attributes here */
+ 
+*{ margin: 0;
+    padding:0;
+}
+    
+}
+ body {
+ 
+     background-color: #ffb088;
+     
+
+     
+    
+ }
+
+/* This is how I formatted my body background color. */
+
+header {
+    
+    background-color: #ffb088;
+    
+    vertical-align: middle;
+    
+    font-size: 250%;
+    
+margin-bottom: inherit;
+    
+   border-bottom-width: 10px;
+    border-bottom-color: black;
+    
+}
+/* I used an online color wheel to find a background color. */
+
+#header {
+    
+   height: 400px;
+    width: 700px;
+    
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+ /* I used this to center the header. */
+ 
+
+h1 {
+    
+   font-size: 200%;
+    text-align: left;
+    text-transform: capitalize;
+      text-decoration: underline;
+    text-decoration-color: black;
+    
+     font-family: inherit, sans-serif, monospace;
+    margin-bottom: 6px;
+    
+     
+    
+}
+ /* I used font family to find the perfect font that will fit my website. */
+ 
+
+
+
+h2 {
+    margin-top: 12px;
+   font-size: 150%;
+    text-align: left;
+    text-transform: capitalize;
+      text-decoration: underline;
+    text-decoration-color: black;
+    
+     font-family: inherit, sans-serif, monospace;
+     
+    margin-bottom: 6px;
+}
+
+main {
+    
+    background-color: #ffb088;
+    color: black;
+    
+}
+
+img {
+    
+    width: 300px;
+    height: 180px;
+}
+
+#banana {
+    
+    float: left;
+    padding-bottom: 0, 20 px;
+    
+    border-color: #4d4a4d;
+    border-color: #4d4a4d;
+    border-style: solid;
+    border-style: solid;
+    border-width: 1px;
+    border-width: 1px, 2px;
+    border-width: 1px, 2px, 2px;
+    border-width: 1px, 2px, 2px, 3px;
+    
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+/* I used boder tags to make my pictures all formatted the same way so that they could all fit in a row together. */
+
+#milk{
+    
+    float: left;
+      
+    border-color: #4d4a4d;
+    border-color: #4d4a4d;
+    border-style: solid;
+    border-style: solid;
+    border-width: 1px;
+    border-width: 1px, 2px;
+    border-width: 1px, 2px, 2px;
+    border-width: 1px, 2px, 2px, 3px;
+    
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+ /* I used float to display the pictures on the right rather then the default place.  */
+ 
+#silly {
+    
+    float: left;
+      
+    border-color: #4d4a4d;
+    border-color: #4d4a4d;
+    border-style: solid;
+    border-style: solid;
+    border-width: 1px;
+    border-width: 1px, 2px;
+    border-width: 1px, 2px, 2px;
+    border-width: 1px, 2px, 2px, 3px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+
+}
+
+#tree {
+    
+    float: left;
+      
+    border-color: #4d4a4d;
+    border-color: #4d4a4d;
+    border-style: solid;
+    border-style: solid;
+    border-width: 1px;
+    border-width: 1px, 2px;
+    border-width: 1px, 2px, 2px;
+    border-width: 1px, 2px, 2px, 3px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+    
+    
+
+}
+
+#next_para {
+    
+     clear: both;
+    
+    
+
+}
+
+
+
+    a:visited 
+
+{
+    color: orangered
+
+}
+
+a:hover
+
+{
+    color: white;
+    
+    font-size: 150%;
+    
+}
+
+
+
+
+footer {
+    
+    margin-top: 25px;
+    
+    margin-left: 5px;
+    margin-bottom: 50px;
+    background-color: #ffb088;
+    
+    font-size: 85%;
+     border-top-width: 5px;
+    border-top-color: black;
+}
+
